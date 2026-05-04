@@ -7,7 +7,7 @@ public class Main {
 
         int resultado = calcularSuma(numero1, numero2);
 
-        System.out.println("Resultado Final: " + resultado); // Imprime: El resultado es:
+        System.out.println("Resultado Final: " + resultado);
     }
 
 
